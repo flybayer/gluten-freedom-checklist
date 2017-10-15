@@ -6,7 +6,7 @@
 
 #### Competitive Landscape
 
-- N/A Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
+N/A Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
 
 - [ ] Subscribe to industry newsletters, magazines, trade journals etc.
 - [x] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
@@ -16,16 +16,7 @@
 - [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
 - [ ] Attend meetups or conferences for your target market.
 - [ ] Meet another entrepreneur who has a similar or competitive product.
-- N/A Make a list of your competitors' customers:
-
-  ##### Finding competitors' customers
-  - [ ] Check their Twitter followers, mentions.
-  - [ ] Look through their Facebook fans.
-  - [ ] Find people who follow them on Linkedin.
-  - [ ] Check their website. Some companies list customer stories on their websites.
-
-- [ ] Reach out to your competitors' customers, find out what they like/don't like.
-- [ ] Create an "early access" list for potential future customers.
+N/A Make a list of your competitors' customers:
 
 ### PR Preparations
 
@@ -36,8 +27,8 @@
 
 ### Landing Page
 
-- [ ] Come up with a name and domain name.
-- [ ] Write a site tagline and elevator pitch.
+- [x] Come up with a name and domain name.
+- [x] Write a site tagline and elevator pitch.
 - [ ] Create a logo.
 
   ##### Logo creation tools
@@ -47,33 +38,19 @@
   - [ ] [FlatIcon](https://www.flaticon.com/)
   - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
 
-- [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
+- [x] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
 - [ ] Create "About" and "Contact" pages.
-- [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
-
-  ##### Pricing ideas
-  - [ ] Create a free or trial tier for your paid product.
-  - [ ] Offer a 100% satisfaction/money-back guarantee.
-  - [ ] Make product invite-only to start.
-  - [ ] Offer free/discounted access for early adopters/beta testers.
-
+N/A Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 - [ ] Add social media follow links to landing page.
-- [ ] Set up analytics to learn about who signs up, bounces, etc.
-
-  ##### Analytics platforms
-  - [ ] [Google Analytics](https://analytics.google.com)
-  - [ ] [Mixpanel](https://mixpanel.com/)
-  - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
-  - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
-
+- [x] Set up analytics to learn about who signs up, bounces, etc.
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools))
 
 ### Email Setup
 
 *[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
 
-- [ ] Set up email address to send and receive emails.
-- [ ] Set up email list and signup form.
+- [x] Set up email address to send and receive emails.
+- [x] Set up email list and signup form.
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
 
@@ -100,21 +77,10 @@
 
 ### Social Media Setup
 
-- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
-- [ ] Choose the social media accounts you'll use:
-
-  ##### Social media platforms
-  - [ ] Facebook
-  - [ ] Twitter
-  - [ ] Linkedin
-  - [ ] Pinterest
-  - [ ] Instagram
-  - [ ] Snapchat
-  - [ ] YouTube
-
+- [x] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
+- [x] Choose the social media accounts you'll use
 - [ ] Standardize profile image, background photo, links and call to action across social channels.
 - [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
-
 
 ## Post-Launch
 
